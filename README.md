@@ -10,7 +10,7 @@ It consists of the following steps-
 
 ##Installation
 
-Install the requirements and make sure you have python 3.7+
+Install the requirements from the `requirements.txt` file.
 
 ##Run
 
